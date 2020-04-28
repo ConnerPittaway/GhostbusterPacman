@@ -1,0 +1,58 @@
+﻿  Pacman.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.20.27508\include\vector(1638): warning C4251: 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>::_Mypair': class 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>' needs to have dll-interface to be used by clients of class 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.20.27508\include\vector(1638): note: see declaration of 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+  C:\Users\p015844j\OneDrive - Staffordshire University\PacmanWalls\Pacman\S2D\Input.h(108): note: see reference to class template instantiation 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>' being compiled
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+C:\Users\p015844j\OneDrive - Staffordshire University\PacmanWalls\Pacman\Pacman.cpp(137): warning C4154: deletion of an array expression; conversion to pointer supplied
+C:\Users\p015844j\OneDrive - Staffordshire University\PacmanWalls\Pacman\Pacman.cpp(158): warning C4154: deletion of an array expression; conversion to pointer supplied
+C:\Users\p015844j\OneDrive - Staffordshire University\PacmanWalls\Pacman\Pacman.cpp(214): warning C4101: 'ch': unreferenced local variable
+C:\Users\p015844j\OneDrive - Staffordshire University\PacmanWalls\Pacman\Pacman.cpp(671): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\p015844j\OneDrive - Staffordshire University\PacmanWalls\Pacman\Pacman.cpp(672): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\p015844j\OneDrive - Staffordshire University\PacmanWalls\Pacman\Pacman.cpp(673): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\p015844j\OneDrive - Staffordshire University\PacmanWalls\Pacman\Pacman.cpp(674): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\p015844j\OneDrive - Staffordshire University\PacmanWalls\Pacman\Pacman.cpp(869): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\p015844j\OneDrive - Staffordshire University\PacmanWalls\Pacman\Pacman.cpp(881): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\p015844j\OneDrive - Staffordshire University\PacmanWalls\Pacman\Pacman.cpp(899): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\p015844j\OneDrive - Staffordshire University\PacmanWalls\Pacman\Pacman.cpp(900): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\p015844j\OneDrive - Staffordshire University\PacmanWalls\Pacman\Pacman.cpp(918): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\p015844j\OneDrive - Staffordshire University\PacmanWalls\Pacman\Pacman.cpp(937): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\p015844j\OneDrive - Staffordshire University\PacmanWalls\Pacman\Pacman.cpp(1037): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\p015844j\OneDrive - Staffordshire University\PacmanWalls\Pacman\Pacman.cpp(1110): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\p015844j\OneDrive - Staffordshire University\PacmanWalls\Pacman\Pacman.cpp(1124): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\p015844j\OneDrive - Staffordshire University\PacmanWalls\Pacman\Pacman.cpp(1131): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\p015844j\OneDrive - Staffordshire University\PacmanWalls\Pacman\Pacman.cpp(1137): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\p015844j\OneDrive - Staffordshire University\PacmanWalls\Pacman\Pacman.cpp(1143): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\p015844j\OneDrive - Staffordshire University\PacmanWalls\Pacman\Pacman.cpp(1057): warning C4101: 'ch': unreferenced local variable
+C:\Users\p015844j\OneDrive - Staffordshire University\PacmanWalls\Pacman\Pacman.cpp(1220): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\p015844j\OneDrive - Staffordshire University\PacmanWalls\Pacman\Pacman.cpp(1278): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\p015844j\OneDrive - Staffordshire University\PacmanWalls\Pacman\Pacman.cpp(1339): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\p015844j\OneDrive - Staffordshire University\PacmanWalls\Pacman\Pacman.cpp(1363): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\p015844j\OneDrive - Staffordshire University\PacmanWalls\Pacman\Pacman.cpp(1380): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\p015844j\OneDrive - Staffordshire University\PacmanWalls\Pacman\Pacman.cpp(1398): warning C4101: 'ch': unreferenced local variable
+C:\Users\p015844j\OneDrive - Staffordshire University\PacmanWalls\Pacman\Pacman.cpp(1502): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\p015844j\OneDrive - Staffordshire University\PacmanWalls\Pacman\Pacman.cpp(1503): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\p015844j\OneDrive - Staffordshire University\PacmanWalls\Pacman\Pacman.cpp(1504): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\p015844j\OneDrive - Staffordshire University\PacmanWalls\Pacman\Pacman.cpp(1505): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\p015844j\OneDrive - Staffordshire University\PacmanWalls\Pacman\Pacman.cpp(1518): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\p015844j\OneDrive - Staffordshire University\PacmanWalls\Pacman\Pacman.cpp(1519): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\p015844j\OneDrive - Staffordshire University\PacmanWalls\Pacman\Pacman.cpp(1520): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\p015844j\OneDrive - Staffordshire University\PacmanWalls\Pacman\Pacman.cpp(1521): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\p015844j\OneDrive - Staffordshire University\PacmanWalls\Pacman\Pacman.cpp(1523): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\p015844j\OneDrive - Staffordshire University\PacmanWalls\Pacman\Pacman.cpp(1524): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\p015844j\OneDrive - Staffordshire University\PacmanWalls\Pacman\Pacman.cpp(1525): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\p015844j\OneDrive - Staffordshire University\PacmanWalls\Pacman\Pacman.cpp(1526): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\p015844j\OneDrive - Staffordshire University\PacmanWalls\Pacman\Pacman.cpp(1837): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\p015844j\OneDrive - Staffordshire University\PacmanWalls\Pacman\Pacman.cpp(1842): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  LINK : C:\Users\p015844j\OneDrive - Staffordshire University\PacmanWalls\Debug\Pacman.exe not found or not built by the last incremental link; performing full link
+  Pacman.vcxproj -> C:\Users\p015844j\OneDrive - Staffordshire University\PacmanWalls\Debug\Pacman.exe
